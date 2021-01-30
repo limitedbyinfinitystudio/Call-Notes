@@ -1,7 +1,6 @@
 Owner contact email: limitedbyinfinitystudio@gmail.com
 
-Types of Data processed
-
+Types of Data processed:
 Among the types of Personal Data that this Application processes but never collects or sends anywhere, by itself, there are: Phone permission; Call log permission; Storage permission;
 
 Complete details on each type of Personal Data processed are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection inside the app.
@@ -12,11 +11,10 @@ Users who have questions in this regard are welcome to contact the Owner.
 
 The Application uses no Cookies – or any other tracking tools – either directly or via third-party services knowingly.
 
-Mode and place of processing the Data
-
+Mode and place of processing the Data:
 All data processed by the Application is done locally on the User's device and remains there. No data is sent to the Owner or shared by the Owner to any third party services.
 
-Device permissions for Personal Data access
+Device permissions for Personal Data access:
 Depending on the User's specific device, this Application may request certain permissions that allow it to access the User's device Data as described below.
 
 By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
@@ -36,7 +34,7 @@ Phone permission:
 Required for detecting when incoming and outgoing calls are made for the purpose of showing notifications allowing contextual addition of notes in the Application.
 
 
-Changes to this privacy policy
+Changes to this privacy policy:
 The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this Application. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
 
 Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
