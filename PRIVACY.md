@@ -1,6 +1,7 @@
 Owner contact email: limitedbyinfinitystudio@gmail.com
 
 Types of Data processed
+
 Among the types of Personal Data that this Application processes but never collects or sends anywhere, by itself, there are: Phone permission; Call log permission; Storage permission;
 
 Complete details on each type of Personal Data processed are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection inside the app.
