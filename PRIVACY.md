@@ -1,7 +1,7 @@
 Owner contact email: limitedbyinfinitystudio@gmail.com
 
 Types of Data processed:
-Among the types of Personal Data that this Application processes but never collects or sends anywhere, by itself, there are: Phone permission; Call log permission; Storage permission;
+Among the types of Personal Data that this Application processes but never collects or sends anywhere, by itself, there are: Phone permission; Storage permission;
 
 Complete details on each type of Personal Data processed are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection inside the app.
 Personal Data indicated herewith may be freely provided by the User if they so choose.
@@ -26,9 +26,6 @@ If User grants any of the permissions listed below, the respective Data may be p
 
 Storage permission:
 Required to save images from scribble notes created in the Application on the device's external storage.
-
-Call Log permission:
-Required to retrieve the phone number associated with the phone calls so they maybe be recorded for each note associated with the call in the Application.
 
 Phone permission:
 Required for detecting when incoming and outgoing calls are made for the purpose of showing notifications allowing contextual addition of notes in the Application.
